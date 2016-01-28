@@ -24,5 +24,5 @@ Web app starter template with React, React DOM, React Router, ES6, Nodejs, React
 ### Development Notes ###
 
 * The main client entry point is app.js.
-* Bootstrap used for styling.
+* Bootstrap used for styling (but for this example it is not used).
 
