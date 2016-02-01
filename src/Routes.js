@@ -11,7 +11,7 @@ let {
     } = require('react-router');
 
 let Main = require('./js/container/Main');
-let SomePage = require('./js/container/SomePage');
+let SomePage = require('./js/component/SomePage');
 
 var Routes = (
     <Router>
